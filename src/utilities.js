@@ -1,4 +1,3 @@
-// Define our labelmap
 let emotion = [
     "angry",
     "disgusted",
@@ -9,7 +8,6 @@ let emotion = [
     "surprised",
 ];
 
-// Define a drawing function
 export const drawRect = (
     box,
     class_val,
